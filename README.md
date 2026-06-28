@@ -4,7 +4,9 @@
 
 <br>
 # Hi, I'm Divya Vani Yaramala 👋
-[![Typing SVG][![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineer;Python+%7C+SQL+%7C+Snowflake;Airflow+%7C+dbt+%7C+AWS;Building+Production+Data+Pipelines)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineer;Python+%7C+SQL+%7C+Snowflake;Airflow+%7C+dbt+%7C+AWS;Building+Production+Data+Pipelines" />
+</p>
 
 ### AI & Data Engineer | Python | SQL | Airflow | dbt | Snowflake | AWS
 
