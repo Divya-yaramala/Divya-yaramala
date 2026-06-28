@@ -24,7 +24,7 @@
 - 🛠️ Expert in **Python, Airflow, dbt, Snowflake, Kafka, PySpark, AWS**
 - 📊 **321+ automated tests** across both projects with CI/CD green badges
 - 🌍 Open to **remote and hybrid** Data Engineer / AI Engineer roles
-- 📧 Reach me: divyayaramala145@gmail.com
+- 📧 Reach me: divyavyaramala@gmail.com
 
 ## 💻 Tech Stack
 
@@ -84,7 +84,6 @@
 ## 🌱 Currently Working On
 - 📈 **90-day portfolio challenge** — building production-grade data engineering projects
 - 🏥 **Clinical Trial Analytics Dashboard** — Power BI + Tableau + Streamlit
-- 🎓 Pursuing **DP-700** and **AI-102** certifications
 
 ## 📊 GitHub Stats
 
