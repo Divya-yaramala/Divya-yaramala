@@ -19,15 +19,21 @@ I build end-to-end data pipelines, cloud data platforms, and AI-powered analytic
 - Interested in AI Agents, LLMs, and cloud-native data platforms
 - Open to full-time Data Engineer / AI Data Engineer roles
 
-## Tech Stack
+## 💻 Tech Stack
 
-**Languages:** Python, SQL  
-**Data Engineering:** Airflow, dbt, Spark, Kafka  
-**Cloud:** AWS S3, Glue, Lambda, Athena  
-**Warehouse:** Snowflake  
-**BI:** Power BI, Tableau  
-**AI:** LangChain, LangGraph, RAG, OpenAI  
-**DevOps:** Docker, GitHub Actions, Git  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dbt" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" />
+</p>
+  
+
 
 ## Featured Projects
 
