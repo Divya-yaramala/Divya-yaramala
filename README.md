@@ -2,22 +2,29 @@
   <img src="./banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<br>
 # Hi, I'm Divya Vani Yaramala 👋
+
+<h3 align="center">AI & Data Engineer | Python • Airflow • dbt • Snowflake • Kafka • AWS</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineer;Python+%7C+SQL+%7C+Snowflake;Airflow+%7C+dbt+%7C+AWS;Building+Production+Data+Pipelines" />
+  <a href="https://linkedin.com/in/divya-v-yaramala">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Divya-yaramala/stock-pipeline">
+    <img src="https://img.shields.io/badge/Project%201-Stock%20Pipeline-green?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/Divya-yaramala/crypto-streaming-pipeline">
+    <img src="https://img.shields.io/badge/Project%202-Crypto%20Streaming-orange?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-### AI & Data Engineer | Python | SQL | Airflow | dbt | Snowflake | AWS
-
-I build end-to-end data pipelines, cloud data platforms, and AI-powered analytics solutions.
-
-## About Me
-
-- Building production-style Data Engineering and AI projects
-- Skilled in Python, SQL, Airflow, dbt, Snowflake, AWS, Spark, and Kafka
-- Interested in AI Agents, LLMs, and cloud-native data platforms
-- Open to full-time Data Engineer / AI Data Engineer roles
+## 👩‍💻 About Me
+- 🔭 Built **2 production-grade portfolio projects** from scratch over 90 days
+- 🤖 Specializing in **AI-powered data pipelines** with ML, LLM, and real-time streaming
+- 🛠️ Expert in **Python, Airflow, dbt, Snowflake, Kafka, PySpark, AWS**
+- 📊 **321+ automated tests** across both projects with CI/CD green badges
+- 🌍 Open to **remote and hybrid** Data Engineer / AI Engineer roles
+- 📧 Reach me: divyayaramala145@gmail.com
 
 ## 💻 Tech Stack
 
@@ -32,6 +39,53 @@ I build end-to-end data pipelines, cloud data platforms, and AI-powered analytic
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spark" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Stock Price Pipeline
+> Batch data pipeline with ML anomaly detection, Prophet forecasting, and GPT insights
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Tests](https://img.shields.io/badge/tests-321%20passing-brightgreen)
+![Airflow](https://img.shields.io/badge/Airflow-2.9-red)
+![dbt](https://img.shields.io/badge/dbt-Core-orange)
+![Snowflake](https://img.shields.io/badge/Snowflake-blue)
+![AWS](https://img.shields.io/badge/AWS-S3-yellow)
+
+**Key highlights:**
+- 13-task Airflow DAG running daily
+- ML: Isolation Forest + Prophet + GPT-3.5
+- REST + GraphQL + WebSocket APIs
+- 24 Architecture Decision Records
+- 49 production patterns
+
+🔗 [View Repository](https://github.com/Divya-yaramala/stock-pipeline)
+
+---
+
+### ⚡ Real-Time Crypto Streaming Pipeline
+> Real-time Kafka streaming with PySpark, Snowflake, dbt, and live Streamlit dashboard
+
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
+![PySpark](https://img.shields.io/badge/PySpark-3.4-orange)
+![Snowflake](https://img.shields.io/badge/Snowflake-blue)
+![dbt](https://img.shields.io/badge/dbt-Core-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+
+**Key highlights:**
+- Real-time prices every 60 seconds
+- PySpark 1-minute aggregations
+- Live Streamlit dashboard
+- 9 Architecture Decision Records
+- 20 production patterns
+
+🔗 [View Repository](https://github.com/Divya-yaramala/crypto-streaming-pipeline)
+
+## 🌱 Currently Working On
+- 📈 **90-day portfolio challenge** — building production-grade data engineering projects
+- 🏥 **Clinical Trial Analytics Dashboard** — Power BI + Tableau + Streamlit
+- 🎓 Pursuing **DP-700** and **AI-102** certifications
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -42,19 +96,3 @@ I build end-to-end data pipelines, cloud data platforms, and AI-powered analytic
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Divya-yaramala&theme=tokyonight" />
 </p>
-  
-
-
-## Featured Projects
-
-### Stock AI Pipeline
-AI-powered stock market data pipeline using Airflow, dbt, Snowflake, AWS, and LLM insights.
-
-### Crypto Streaming Pipeline
-Real-time crypto streaming pipeline using Kafka, Spark Streaming, AWS, and Snowflake.
-
-## Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/divya-v-yaramala/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOkAAkO86T1a80ljp%2BojndA%3D%3D
-Email:divyavyaramala@gmail.com
--->
