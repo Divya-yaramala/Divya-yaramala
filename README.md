@@ -32,6 +32,16 @@ I build end-to-end data pipelines, cloud data platforms, and AI-powered analytic
   <img src="https://go-skill-icons.vercel.app/api/icons?i=spark" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Divya-yaramala&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-yaramala&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Divya-yaramala&theme=tokyonight" />
+</p>
   
 
 
