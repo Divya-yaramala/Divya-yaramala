@@ -1,4 +1,9 @@
-# Hi, I'm Divya Yaramala 👋
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+<br>
+# Hi, I'm Divya Vani Yaramala 👋
 
 ### AI & Data Engineer | Python | SQL | Airflow | dbt | Snowflake | AWS
 
